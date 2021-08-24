@@ -9,8 +9,8 @@ Navegação robótica por identificação de estados a partir de clusterização
     
 # Cluster Validation by K-means
 
-Para validar a qualidade do agrupamento de dados pelo ARI de um determinado dataset, juntamente com sua representação gráfica do seu GroudTruth com PCA, basta executar o arquivo clusterValidationKmeans.py na pasta clustering_Validation_Kmeans
+Para validar a qualidade do agrupamento de dados pelo ARI de um determinado dataset, juntamente com sua representação gráfica do seu GroudTruth com PCA, basta executar o arquivo clusterValidationKmeans.py na pasta clustering_Validation_Kmeans  
 
-Procedimentos a serem feitos manualmente:
-1 - Determinar o número de grupos a serem criados
+Procedimentos a serem feitos manualmente:  
+1 - Determinar o número de grupos a serem criados  
 2 - Selecionar o dataset a ser validado
