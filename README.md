@@ -13,4 +13,4 @@ Para validar a qualidade do agrupamento de dados pelo ARI de um determinado data
 
 Procedimentos a serem feitos manualmente:  
 1 - Determinar o número de grupos a serem criados;  
-2 - Selecionar o dataset a ser validado.
+2 - Selecionar o dataset a ser validado (caso for utilizado algum dataset deste projeto, selecionar os dataset contidos nas pastas csvCombined).
