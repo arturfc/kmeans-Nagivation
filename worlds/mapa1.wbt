@@ -1,0 +1,364 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.9102441266588637 0.33718267225694815 0.2403403324719054 1.3029050379597287
+  position 6.9820375703283375 21.40467437962702 6.715255181467557
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+Solid {
+  translation 1.71 0 -0.34
+  children [
+    Group {
+      children [
+        Transform {
+          children [
+            Wall {
+              translation -2 0 2.5
+              rotation 0 1 0 1.5707996938995747
+              name "wall(12)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -0.05 0 2.5
+              rotation 0 1 0 1.5707996938995747
+              name "wall(11)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -1 0 1.55
+              name "wall(11)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -1 0 3.45
+              name "wall(7)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+    Group {
+      children [
+        Transform {
+          translation 0 0 -5
+          children [
+            Wall {
+              translation -1 0 1.92
+              name "wall(8)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 0.57 0 1.93
+              name "wall(10)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -1 0 3.45
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+    Group {
+      children [
+        Transform {
+          children [
+            Wall {
+              translation 3.5 0 2.5
+              rotation 0 1 0 1.5707996938995747
+              name "wall(1)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 3.5 0 -0.8
+              rotation 0 1 0 1.5707996938995747
+              name "wall(10)"
+              size 1.6 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 1.56 0 -0.8
+              rotation 0 1 0 1.5707996938995747
+              name "wall(10)"
+              size 1.6 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 1.56 0 10.74
+              rotation 0 1 0 1.5707996938995747
+              name "wall(10)"
+              size 1.6 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 1.45 0 2.5
+              rotation 0 1 0 1.5707996938995747
+              name "wall(10)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 1.45 0 9.62
+              rotation 0 1 0 1.5707996938995747
+              name "wall(9)"
+              size 1.6 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 2.47 0 3.45
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 2.5 0 1.55
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -2.51 0 -0.05
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation -1.01 0 -0.05
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+    Group {
+      children [
+        Transform {
+          translation 0 0 -5
+          children [
+            Wall {
+              translation 2.5 0 3.45
+              name "wall(9)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 2.5 0 4.95
+              name "wall(6)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+            Wall {
+              translation 2.5 0 1.93
+              name "wall(13)"
+              size 2 1 0.1
+              appearance Roughcast {
+                colorOverride 0.7 0.7 0.7
+                textureTransform TextureTransform {
+                  scale 1 2.4
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+    DEF FLORR_SHAPE Shape {
+      appearance PBRAppearance {
+        baseColor 0 0 0
+        baseColorMap ImageTexture {
+          url [
+            "textures/fabric_with_motif.jpg"
+          ]
+        }
+        roughness 1
+        metalness 0.5
+      }
+      geometry Plane {
+        size 10 10
+      }
+    }
+    Wall {
+      translation 5.05 0 0.22
+      rotation 0 1 0 1.5707996938995747
+      size 9.6 1 0.1
+      appearance Roughcast {
+        colorOverride 0.7 0.7 0.7
+        textureTransform TextureTransform {
+          scale 1 2.4
+        }
+      }
+    }
+    Wall {
+      translation 0.76 0 5.05
+      name "wall(2)"
+      size 8.6 1 0.1
+      appearance Roughcast {
+        colorOverride 0.7 0.7 0.7
+        textureTransform TextureTransform {
+          scale 1 2.4
+        }
+      }
+    }
+    Wall {
+      translation 0.76 0 -4.56
+      name "wall(3)"
+      size 8.6 1 0.1
+      appearance Roughcast {
+        colorOverride 0.7 0.7 0.7
+        textureTransform TextureTransform {
+          scale 1 2.4
+        }
+      }
+    }
+    Wall {
+      translation -3.5 0 3.25
+      rotation 0 1 0 1.5707996938995747
+      name "wall(4)"
+      size 3.5 1 0.1
+      appearance Roughcast {
+        colorOverride 0.7 0.7 0.7
+        textureTransform TextureTransform {
+          scale 1 2.4
+        }
+      }
+    }
+    Wall {
+      translation -3.5 0 -1.49
+      rotation 0 1 0 1.5707996938995747
+      name "wall(5)"
+      size 6 1 0.1
+      appearance Roughcast {
+        colorOverride 0.7 0.7 0.7
+        textureTransform TextureTransform {
+          scale 1 2.4
+        }
+      }
+    }
+  ]
+  boundingObject USE FLORR_SHAPE
+  rotationStep 0.261797
+}
+Pioneer3dx {
+  translation 4.27407 0.108893 3.87881
+  rotation 0 1 0 -1.5709953071795866
+  controller "findState1"
+  extensionSlot [
+    SickLms291 {
+      translation 0 0.22 0
+      rotation 1 0 0 4.692820414042842e-06
+    }
+  ]
+}
