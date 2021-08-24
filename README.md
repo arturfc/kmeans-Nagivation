@@ -3,7 +3,7 @@ Navegação robótica por identificação de estados a partir de clusterização
 
 1 - Instale a versão R2021a ou superior do Webots em https://cyberbotics.com/
 
-2 - Inserir os controllers e os mapas deste repositório à plataforma
+2 - Inserir os controllers e os mapas deste repositório à plataforma  
     Exemplo deste passo pode ser visualizado neste link: 
     
     
