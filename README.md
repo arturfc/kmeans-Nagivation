@@ -14,3 +14,7 @@ Para validar a qualidade do agrupamento de dados pelo ARI de um determinado data
 Procedimentos a serem feitos manualmente:  
 1 - Determinar o número de grupos a serem criados;  
 2 - Selecionar o dataset a ser validado (caso for utilizado algum dataset deste projeto, selecionar um dos dataset contidos nas pastas csvCombined).
+
+# datasetCollector controller
+
+Este controlador permite coletar informações do ambiente. Para fazer os devidos ajustes de acordo com sua preferência, altere as variáveis de velocidade, quantidade de dados a serem coletados, o nome do estado a ser identificado, e o nome dos arquivos gerados com label e sem label.
